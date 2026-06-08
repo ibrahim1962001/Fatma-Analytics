@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fatma Elshall | Data Analyst — Resume</title>
+  <style>
+    /* ATS-safe: single column, standard fonts, no tables/columns/icons in body */
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: Calibri, "Segoe UI", Arial, sans-serif;
+      font-size: 11pt;
+      line-height: 1.45;
+      color: #1a1a1a;
+      background: #eceff1;
+      padding: 20px;
+    }
+
+    .toolbar {
+      max-width: 8.5in;
+      margin: 0 auto 14px;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .toolbar a,
+    .toolbar button {
+      font: inherit;
+      font-size: 10pt;
+      padding: 8px 16px;
+      border: 1px solid #bbb;
+      border-radius: 4px;
+      background: #fff;
+      color: #1a1a1a;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    .toolbar .primary {
+      background: #2d6a4f;
+      color: #fff;
+      border-color: #2d6a4f;
+    }
+
+    .resume {
+      max-width: 8.5in;
+      margin: 0 auto;
+      background: #fff;
+      padding: 0.55in 0.6in;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+    }
+
+    /* Header */
+    .name {
+      font-size: 22pt;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      color: #111;
+      margin-bottom: 4px;
+    }
+
+    .headline {
+      font-size: 12pt;
+      font-weight: 600;
+      color: #2d6a4f;
+      margin-bottom: 10px;
+    }
+
+    .contact-line {
+      font-size: 10pt;
+      color: #333;
+      line-height: 1.6;
+      border-bottom: 2px solid #2d6a4f;
+      padding-bottom: 12px;
+      margin-bottom: 14px;
+    }
+
+    .contact-line a {
+      color: #1a1a1a;
+      text-decoration: none;
+    }
+
+    /* Sections — standard ATS headings */
+    section {
+      margin-bottom: 14px;
+    }
+
+    h2 {
+      font-size: 11pt;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: #2d6a4f;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 3px;
+      margin-bottom: 8px;
+    }
+
+    p {
+      font-size: 10.5pt;
+      color: #222;
+      margin-bottom: 6px;
+    }
+
+    ul {
+      padding-left: 18px;
+      margin-bottom: 4px;
+    }
+
+    li {
+      font-size: 10.5pt;
+      color: #222;
+      margin-bottom: 4px;
+    }
+
+    /* Experience entries */
+    .job {
+      margin-bottom: 12px;
+    }
+
+    .job-title {
+      font-size: 11pt;
+      font-weight: 700;
+      color: #111;
+    }
+
+    .job-org {
+      font-size: 10.5pt;
+      font-weight: 600;
+      color: #333;
+    }
+
+    .job-date {
+      font-size: 10pt;
+      color: #555;
+      margin-bottom: 4px;
+    }
+
+    .job-meta {
+      display: block;
+    }
+
+    /* Skills — plain text for ATS */
+    .skills-block {
+      font-size: 10.5pt;
+      line-height: 1.55;
+      color: #222;
+    }
+
+    .skills-block strong {
+      color: #111;
+    }
+
+    .cert-list li {
+      margin-bottom: 3px;
+    }
+
+    .project-entry {
+      margin-bottom: 8px;
+    }
+
+    .project-entry strong {
+      font-size: 10.5pt;
+    }
+
+    .project-entry span {
+      font-size: 10pt;
+      color: #444;
+    }
+
+    @media print {
+      body {
+        background: #fff;
+        padding: 0;
+      }
+
+      .toolbar { display: none; }
+
+      .resume {
+        box-shadow: none;
+        padding: 0.4in 0.5in;
+        max-width: 100%;
+      }
+
+      .headline,
+      h2 {
+        color: #111;
+      }
+
+      a {
+        color: #111;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="toolbar">
+    <a href="index.html">Back to Portfolio</a>
+    <a href="resume.txt" download="Fatma-Elshall-Resume.txt">Download TXT (ATS)</a>
+    <button class="primary" type="button" onclick="window.print()">Save as PDF</button>
+  </div>
+
+  <main class="resume" id="resume">
+    <header>
+      <h1 class="name">Fatma Elshall</h1>
+      <p class="headline">Data Analyst | Business Intelligence | Freelancer</p>
+      <p class="contact-line">
+        Kfr Elshikh, Cairo, Egypt |
+        <a href="mailto:fatmaalshall2000@gmail.com">fatmaalshall2000@gmail.com</a> |
+        <a href="https://www.linkedin.com/in/fatma-elshall/">linkedin.com/in/fatma-elshall</a> |
+        <a href="https://github.com/fatma-elshall">github.com/fatma-elshall</a> |
+        <a href="https://public.tableau.com/app/profile/fatma.elshall/vizzes">Tableau Public</a> |
+        <a href="https://www.kaggle.com/fatmaelshall">Kaggle</a>
+      </p>
+    </header>
+
+    <section>
+      <h2>Professional Summary</h2>
+      <p>
+        Results-driven Data Analyst with 2+ years of experience in data analysis, business intelligence,
+        dashboard development, and automated reporting. Delivered 15+ freelance and professional projects
+        for clients including GOSI (Saudi Arabia), Saudi Military Hospital, and AL-Nahdy — reducing
+        manual reporting time by 30–40% and improving data-driven decision-making across healthcare, HR,
+        e-commerce, telecom, finance, and recruitment. Proficient in SQL, Python, Excel, Power Query,
+        Tableau, Google Looker Studio, GA4, and Google Workspace. Google Advanced Data Analytics
+        Professional Certificate holder. Bilingual in Arabic (native) and English (professional).
+      </p>
+    </section>
+
+    <section>
+      <h2>Core Competencies</h2>
+      <p class="skills-block">
+        Data Analysis | Business Intelligence | Data Visualization | Interactive Dashboards | Automated Reporting |
+        Data Cleaning | Data Modeling | Data Profiling | ETL | SQL Queries | Python (Pandas, NumPy, Matplotlib, Seaborn) |
+        Microsoft Excel | Power Query | Tableau | Google Looker Studio | Google Analytics 4 (GA4) |
+        Google Workspace | Google Forms | MySQL | Statistical Analysis | KPI Tracking |
+        HR Analytics | Healthcare Analytics | E-Commerce Analytics | Recruitment Analytics |
+        Stakeholder Reporting | Problem Solving | Decision Support | Machine Learning Foundations
+      </p>
+    </section>
+
+    <section>
+      <h2>Professional Experience</h2>
+
+      <article class="job">
+        <span class="job-title">Freelance Data Analyst</span>
+        <span class="job-meta"> — Freelance | Cairo, Egypt</span>
+        <p class="job-date">January 2025 – Present</p>
+        <ul>
+          <li>Conducted end-to-end data analysis and visualization projects for 15+ clients across 8+ industries, optimizing business strategies and executive decision-making.</li>
+          <li>Developed automated reports and interactive dashboards using Excel, Tableau, SQL, Python, Google Sheets, and Looker Studio — reducing manual reporting time by 30–40%.</li>
+          <li>Performed data cleaning, transformation, and modeling on messy spreadsheets and multi-source datasets, improving data accuracy and insight reliability.</li>
+          <li>Delivered confidential analytics systems for GOSI (Saudi Arabia), Saudi Military Hospital (Ministry of Defense), AL-Nahdy, and e-commerce clients.</li>
+          <li>Designed real-time KPI dashboards enabling stakeholders to monitor performance, track training impact, and prioritize operational improvements.</li>
+        </ul>
+      </article>
+
+      <article class="job">
+        <span class="job-title">Data Analyst</span>
+        <span class="job-meta"> — Zon Net Digital Solutions | Egypt</span>
+        <p class="job-date">December 2025 – January 2026</p>
+        <ul>
+          <li>Built automated recruitment workflow categorizing CVs from Google Forms into department-specific Google Drive folders.</li>
+          <li>Transformed unstructured spreadsheet data into a structured database, reducing manual file handling by 50%.</li>
+          <li>Designed interactive recruitment dashboard with real-time analytics on applicant demographics and hiring pipelines.</li>
+        </ul>
+      </article>
+
+      <article class="job">
+        <span class="job-title">Data Analysis Intern</span>
+        <span class="job-meta"> — Digital Egypt Pioneers Initiative (DEPI) | Egypt</span>
+        <p class="job-date">October 2024 – April 2025</p>
+        <ul>
+          <li>Conducted data preprocessing, transformation, and analysis using SQL, Python, Excel, and Tableau.</li>
+          <li>Developed 5+ interactive dashboards for business-ready insights; improved project quality metrics by 40%.</li>
+          <li>Collaborated in agile team environment with iterative feedback and continuous delivery.</li>
+        </ul>
+      </article>
+
+      <article class="job">
+        <span class="job-title">AI Intern</span>
+        <span class="job-meta"> — Information Technology Institute (ITI) | Giza, Egypt</span>
+        <p class="job-date">September 2022 – October 2022</p>
+        <ul>
+          <li>Completed 72-hour intensive AI program covering Python, statistics, linear algebra, neural networks, and deep learning.</li>
+          <li>Built foundation in machine learning model development and data preparation for AI applications.</li>
+        </ul>
+      </article>
+    </section>
+
+    <section>
+      <h2>Selected Projects</h2>
+
+      <div class="project-entry">
+        <strong>Medical Data Analysis — Saudi Military Hospital (Ministry of Defense)</strong>
+        <span> | Excel, Data Modeling | Oct 2025</span>
+        <ul>
+          <li>Consolidated Excel and PDF data from 6 health centers; improved reporting efficiency by 20–30%.</li>
+        </ul>
+      </div>
+
+      <div class="project-entry">
+        <strong>Employee Performance System — GOSI (Saudi Arabia)</strong>
+        <span> | Google Forms, Sheets, Looker Studio | Sep 2025</span>
+        <ul>
+          <li>Automated HR assessment workflow; reduced manual reporting by 35%+ with real-time training KPIs.</li>
+        </ul>
+      </div>
+
+      <div class="project-entry">
+        <strong>Amazon Sales Analysis</strong>
+        <span> | Excel | May 2025</span>
+        <ul>
+          <li>Cleaned 8,000+ duplicate orders; built KPI dashboard — 90% shipment rate, regional product insights.</li>
+        </ul>
+      </div>
+
+      <div class="project-entry">
+        <strong>Superstore Sales Analysis</strong>
+        <span> | SQL, Python, Tableau | DEPI</span>
+        <ul>
+          <li>Regional and category trend analysis with interactive Tableau Public dashboard.</li>
+        </ul>
+      </div>
+
+      <div class="project-entry">
+        <strong>Telecom Customer Churn Analysis</strong>
+        <span> | Python, Tableau</span>
+        <ul>
+          <li>Identified churn drivers and retention strategies via predictive visualizations.</li>
+        </ul>
+      </div>
+
+      <div class="project-entry">
+        <strong>Call Center Data Analysis</strong>
+        <span> | Excel | Apr 2025</span>
+        <ul>
+          <li>Reduced average wait time by 20%; analyzed 87% SLA compliance and CSAT drivers.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <article class="job">
+        <span class="job-title">Bachelor of Science — Electrical, Electronics and Communications Engineering</span>
+        <p class="job-date">Al-Azhar University, Cairo, Egypt | 2018 – 2023</p>
+      </article>
+    </section>
+
+    <section>
+      <h2>Certifications</h2>
+      <ul class="cert-list">
+        <li>Google Advanced Data Analytics Professional Certificate — Google | January 2026</li>
+        <li>Regression Analysis — Google/Coursera | October 2025</li>
+        <li>Delivering Quality Work with Agility — IBM/Coursera | July 2025</li>
+        <li>Data Analytics Job Simulation — Deloitte/Forage | May 2025</li>
+        <li>Developing Your Emotional Intelligence — LinkedIn Learning | September 2024</li>
+        <li>Fundamentals of Deep Learning — NVIDIA | September 2022</li>
+        <li>ALX AICE — AI Career Essentials — ALX Africa | September 2024</li>
+        <li>AI Certification — Information Technology Institute (ITI) | September 2022</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Technical Skills</h2>
+      <p class="skills-block">
+        <strong>Programming &amp; Databases:</strong> SQL, MySQL, Python, Pandas, NumPy, Matplotlib, Seaborn<br>
+        <strong>BI &amp; Visualization:</strong> Microsoft Excel, Power Query, Tableau, Google Looker Studio, GA4<br>
+        <strong>Google Tools:</strong> Google Sheets, Google Forms, Google Drive, Google Workspace<br>
+        <strong>Analytics:</strong> Data Cleaning, Data Modeling, Dashboard Design, Automated Reports, KPI Development, A/B Insights, CSAT Analysis<br>
+        <strong>Soft Skills:</strong> Stakeholder Communication, Documentation, Problem Solving, Team Leadership, Time Management
+      </p>
+    </section>
+
+    <section>
+      <h2>Languages</h2>
+      <p>Arabic — Native or Bilingual | English — Professional Working Proficiency</p>
+    </section>
+  </main>
+
+  <script>
+    if (new URLSearchParams(location.search).get('print') === '1') {
+      window.addEventListener('load', function () {
+        setTimeout(function () { window.print(); }, 400);
+      });
+    }
+  </script>
+</body>
+</html>

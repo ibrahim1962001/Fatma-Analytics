@@ -1,0 +1,83 @@
+FATMA ELSHALL
+Data Analyst | Business Intelligence | Freelancer
+
+Kfr Elshikh, Cairo, Egypt
+Email: fatmaalshall2000@gmail.com
+LinkedIn: linkedin.com/in/fatma-elshall
+GitHub: github.com/fatma-elshall
+Tableau Public: public.tableau.com/app/profile/fatma.elshall/vizzes
+Kaggle: kaggle.com/fatmaelshall
+
+PROFESSIONAL SUMMARY
+Results-driven Data Analyst with 2+ years of experience in data analysis, business intelligence, dashboard development, and automated reporting. Delivered 15+ freelance and professional projects for clients including GOSI (Saudi Arabia), Saudi Military Hospital, and AL-Nahdy — reducing manual reporting time by 30-40%. Proficient in SQL, Python, Excel, Power Query, Tableau, Google Looker Studio, GA4, and Google Workspace. Google Advanced Data Analytics Professional Certificate holder. Bilingual: Arabic (native), English (professional).
+
+CORE COMPETENCIES
+Data Analysis, Business Intelligence, Data Visualization, Interactive Dashboards, Automated Reporting, Data Cleaning, Data Modeling, SQL, Python, Pandas, Excel, Power Query, Tableau, Google Looker Studio, GA4, Google Workspace, MySQL, KPI Tracking, HR Analytics, Healthcare Analytics, E-Commerce Analytics, Recruitment Analytics, Machine Learning Foundations
+
+PROFESSIONAL EXPERIENCE
+
+Freelance Data Analyst | Freelance | Cairo, Egypt
+January 2025 - Present
+- Conducted data analysis and visualization for 15+ clients across 8+ industries
+- Developed automated reports and dashboards in Excel, Tableau, SQL, Python, Looker Studio; reduced reporting time 30-40%
+- Performed data cleaning, transformation, and modeling on multi-source datasets
+- Delivered analytics for GOSI, Saudi Military Hospital, AL-Nahdy, and e-commerce clients
+- Built real-time KPI dashboards for stakeholder decision-making
+
+Data Analyst | Zon Net Digital Solutions | Egypt
+December 2025 - January 2026
+- Automated recruitment workflow from Google Forms to Google Drive folders
+- Structured messy spreadsheet data into database; reduced manual handling 50%
+- Built recruitment dashboard with real-time hiring pipeline analytics
+
+Data Analysis Intern | Digital Egypt Pioneers Initiative (DEPI) | Egypt
+October 2024 - April 2025
+- Analyzed data using SQL, Python, Excel, and Tableau
+- Developed 5+ interactive dashboards; improved project quality by 40%
+
+AI Intern | Information Technology Institute (ITI) | Giza, Egypt
+September 2022 - October 2022
+- Completed 72-hour AI program: Python, statistics, neural networks, deep learning
+
+SELECTED PROJECTS
+
+Medical Data Analysis - Saudi Military Hospital | Excel, Data Modeling | Oct 2025
+- 6 health centers; 20-30% reporting efficiency improvement
+
+Employee Performance System - GOSI Saudi Arabia | Looker Studio | Sep 2025
+- 35%+ reduction in manual HR reporting
+
+Amazon Sales Analysis | Excel | May 2025
+- 8000+ duplicates cleaned; 90% shipment rate dashboard
+
+Superstore Sales Analysis | SQL, Python, Tableau | DEPI
+Telecom Customer Churn Analysis | Python, Tableau
+Call Center Data Analysis | Excel | 20% wait time reduction
+
+EDUCATION
+
+Bachelor of Science, Electrical Electronics and Communications Engineering
+Al-Azhar University, Cairo, Egypt | 2018 - 2023
+
+CERTIFICATIONS
+
+Google Advanced Data Analytics Professional Certificate | Google | Jan 2026
+Regression Analysis | Google/Coursera | Oct 2025
+Delivering Quality Work with Agility | IBM/Coursera | Jul 2025
+Data Analytics Job Simulation | Deloitte/Forage | May 2025
+Developing Your Emotional Intelligence | LinkedIn Learning | Sep 2024
+Fundamentals of Deep Learning | NVIDIA | Sep 2022
+ALX AICE AI Career Essentials | ALX Africa | Sep 2024
+AI Certification | ITI | Sep 2022
+
+TECHNICAL SKILLS
+
+Programming: SQL, MySQL, Python, Pandas, NumPy, Matplotlib, Seaborn
+BI Tools: Excel, Power Query, Tableau, Google Looker Studio, GA4
+Google: Sheets, Forms, Drive, Workspace
+Analytics: Data Cleaning, Modeling, Dashboard Design, Automated Reports, KPI Development
+
+LANGUAGES
+
+Arabic - Native or Bilingual
+English - Professional Working Proficiency
